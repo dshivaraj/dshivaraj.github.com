@@ -1,2 +1,2 @@
-# dshivaraj.github.com
-Personal website of Shivaraj
+dshivaraj.com
+# Personal website of Shivaraj
